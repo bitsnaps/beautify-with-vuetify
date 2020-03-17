@@ -50,3 +50,13 @@ yarn run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Using NPM
+You can also use NPM as usual
+```
+npm install
+```
+Run:
+```
+npm run serve
+```
